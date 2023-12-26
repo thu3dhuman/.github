@@ -1,4 +1,4 @@
-Publically released code/data from THU-3DHuman: [sourcecode](https://github.com/thu3dhuman/sourcecode) / [dataset](https://github.com/thu3dhuman/dataset)
+Publicly released code/data from THU-3DHuman: [sourcecode](https://github.com/thu3dhuman/sourcecode) / [dataset](https://github.com/thu3dhuman/dataset)
 
 ### 2023
 + **[xhuangcv/humannorm](https://github.com/xhuangcv/humannorm)**: [![GitHub stars](https://img.shields.io/github/stars/xhuangcv/humannorm.svg?style=social&label=Star)](https://github.com/xhuangcv/humannorm)\
