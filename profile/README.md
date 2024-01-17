@@ -8,7 +8,7 @@ Publicly released code/data from THU-3DHuman: [sourcecode](https://github.com/th
  ``[arXiv 2023] GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Real-time Human Novel View Synthesis``
 
 + **[MrTornado24/DreamCraft3D](https://github.com/deepseek-ai/DreamCraft3D)**: [![GitHub stars](https://img.shields.io/github/stars/deepseek-ai/DreamCraft3D.svg?style=social&label=Star)](https://github.com/deepseek-ai/DreamCraft3D)\
- ``[arXiv 2023] DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior``
+ ``[ICLR 2024] DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior``
 
 + **[XChenZ/havatar](https://github.com/XChenZ/havatar)**: [![GitHub stars](https://img.shields.io/github/stars/XChenZ/havatar.svg?style=social&label=Star)](https://github.com/XChenZ/havatar)\
  ``[TOG 2023] HAvatar: High-fidelity Head Avatar via Facial Model ConditionedNeural Radiance Field``
