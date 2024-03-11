@@ -1,6 +1,9 @@
 Publicly released code/data from THU-3DHuman: [sourcecode](https://github.com/thu3dhuman/sourcecode) / [dataset](https://liuyebin.com/dataset.html)
 
 ### 2024
++ **[lizhe00/AnimatableGaussians](https://github.com/lizhe00/AnimatableGaussians)**: [![GitHub stars](https://img.shields.io/github/stars/lizhe00/AnimatableGaussians.svg?style=social&label=Star)](https://github.com/lizhe00/AnimatableGaussians)\
+ ``[CVPR 2024] Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling``
+
 + **[huliangxiao/GaussianAvatar](https://github.com/huliangxiao/GaussianAvatar)**: [![GitHub stars](https://img.shields.io/github/stars/huliangxiao/GaussianAvatar.svg?style=social&label=Star)](https://github.com/huliangxiao/GaussianAvatar)\
  ``[CVPR 2024] GaussianAvatar: Towards Realistic Human Avatar Modeling from a Single Video via Animatable 3D Gaussians``
 
